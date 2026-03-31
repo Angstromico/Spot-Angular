@@ -1,5 +1,9 @@
 # Spotify
 
+## Project Overview
+
+This project is based on a deprecated Udemy course but has been modernized to incorporate current Angular best practices and features. The modernization represents my contribution to this repository, updating the codebase to align with the latest Angular ecosystem and development patterns.
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.3.
 
 ## Development server
