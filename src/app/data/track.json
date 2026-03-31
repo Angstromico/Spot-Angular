@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Acoustic Breeze",
+      "artist": "Bensound",
+      "album": "Folk Collection",
+      "duration": "2:37",
+      "cover": "https://www.bensound.com/bensound-img/acousticbreeze.jpg",
+      "url": "https://www.bensound.com/bensound-music/bensound-acousticbreeze.mp3"
+    },
+    {
+      "id": 2,
+      "name": "Creative Minds",
+      "artist": "Bensound",
+      "album": "Corporate",
+      "duration": "2:27",
+      "cover": "https://www.bensound.com/bensound-img/creativeminds.jpg",
+      "url": "https://www.bensound.com/bensound-music/bensound-creativeminds.mp3"
+    },
+    {
+      "id": 3,
+      "name": "Going Higher",
+      "artist": "Bensound",
+      "album": "Rock",
+      "duration": "4:04",
+      "cover": "https://www.bensound.com/bensound-img/goinghigher.jpg",
+      "url": "https://www.bensound.com/bensound-music/bensound-goinghigher.mp3"
+    },
+    {
+      "id": 4,
+      "name": "Happy Rock",
+      "artist": "Bensound",
+      "album": "Energy",
+      "duration": "1:45",
+      "cover": "https://www.bensound.com/bensound-img/happyrock.jpg",
+      "url": "https://www.bensound.com/bensound-music/bensound-happyrock.mp3"
+    },
+    {
+      "id": 5,
+      "name": "Adventure",
+      "artist": "Bensound",
+      "album": "Cinematic",
+      "duration": "3:00",
+      "cover": "https://www.bensound.com/bensound-img/adventure.jpg",
+      "url": "https://www.bensound.com/bensound-music/bensound-adventure.mp3"
+    }
+  ]
+}
