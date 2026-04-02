@@ -6,8 +6,4 @@ export const routes: Routes = [
     path: '',
     component: App,
   },
-  {
-    path: 'example',
-    loadComponent: () => import('./components/example/example').then((m) => m.ExampleComponent),
-  },
 ];
